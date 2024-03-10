@@ -1,0 +1,33 @@
+body {
+    background-image: linear-gradient(lightblue, lightyellow); 
+    height: 100%;
+    margin: 0%;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
+.color {
+    color: darkblue;
+    font-family:cursive;
+    padding-left: 35%;
+    font-weight: 600;
+}
+.placeholder-glow {
+    color: aquamarine; 
+}
+ .color1 {
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ .card {
+    background-color: lightcyan;
+ }
+ .color1 {
+    margin-right: 50%;
+    font-family:cursive
+ }
+
+ body, html {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+}
